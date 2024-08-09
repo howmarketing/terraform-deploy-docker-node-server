@@ -16,7 +16,7 @@ resource "docker_container" "node_app" {
   # map the container port to the host machine port
   ports {
     internal = 3000 # container port
-    external = 8080 # host machine port
+    external = 80 # host machine port
   }
 
   # command = ["npm", "run", "dev"]

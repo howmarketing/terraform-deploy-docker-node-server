@@ -2,6 +2,12 @@
 
 This repository contains a Node.js application that can be easily deployed locally using Docker. Follow the steps below to get your application up and running.
 
+**DEMO**
+
+[https://www.youtube.com/watch?v=cyNWolqg7Z8](https://www.youtube.com/watch?v=cyNWolqg7Z8)
+
+<iframe width="712" height="390" src="https://www.youtube.com/embed/cyNWolqg7Z8" title="Terraform | Deploy a docker container with a node app locally with Terraform" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
