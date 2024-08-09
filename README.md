@@ -112,5 +112,3 @@ CMD ["node", "server.js"]
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 
 Feel free to contribute or open issues if you encounter any problems. Happy coding!
-
-```
