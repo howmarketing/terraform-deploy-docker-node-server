@@ -7,6 +7,7 @@ This repository contains a Node.js application that can be easily deployed local
 Check out the demonstration of deploying a Docker container with a Node.js application:
 
 [Watch the video](https://www.youtube.com/watch?v=cyNWolqg7Z8)
+![video-demo](video.jpeg)
 
 <iframe width="712" height="390" src="https://www.youtube.com/embed/cyNWolqg7Z8" title="Deploy a Docker Container with a Node.js App Locally" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
